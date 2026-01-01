@@ -6,6 +6,8 @@ I have scedulled a Poll scm job for the repo - to test this readme file
 Now I am trying the webhook trigger
 I have given http://publicip:8080/github-webhook/ - add this in Payload url to connect github to jenkins
 
+TO recheck the webhook trigger I adding here another line
+
 
 
 
